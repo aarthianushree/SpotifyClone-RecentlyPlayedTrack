@@ -1,0 +1,80 @@
+.footer_size{
+    position: fixed;
+    margin-top: 640px;
+    background-color:#191919;
+    height: 20%;
+    width: 100%;
+    display: flex;
+    color: white;
+}
+
+.left{
+    height: 65px;
+    width: 25%;
+    margin-top: 5px;
+    margin-left: 2px;
+    display: flex;
+    gap: 30px;
+    align-items: center;
+}
+
+.leftimage{
+    height: 65px;
+    width: 65px;
+    margin-left: 18px;
+    border-radius: 5px;
+}
+.leftText{
+    margin-top: -20px;
+}
+
+.heartIcon{
+    margin-left: 35px;
+    margin-right: -15px;
+}
+
+.middle{
+    height: 65px;
+    width: 50%;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.middleTop{
+   height: 45px;
+   width: 100%;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   gap: 30px;
+}
+
+.middleBottom{
+    height: 30px;
+    width: 70%;
+    justify-content: center;
+    margin-top: -10px;
+    margin-left: 100px;
+    
+}
+
+.right{
+    height: 65px;
+    width: 30%;
+    margin-top: 5px;
+    margin-left: 5px;
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer_green.css-187mznn-MuiSlider-root{
+    color:#1ed15e;
+}
+
+.footer_rightslider.css-187mznn-MuiSlider-root{
+    color:#1ed15e;
+    width: 30%;
+    margin-right: -80px;
+}

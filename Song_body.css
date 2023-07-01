@@ -1,0 +1,87 @@
+.Song_body_size{
+    margin-top: 25px;
+    height: 85.5%;
+    width: 100%;
+    background-color: #191919;
+    border-radius: 10px;
+    overflow-y: scroll;
+    justify-content: flex-start;
+    color: white;
+}
+
+.grid{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+}
+
+.header_size{
+    height: 15vh;
+    width: 100%;
+}
+
+.headerTop{
+    position: fixed;
+    display: flex;
+    color: whitesmoke;
+    padding: 30px;
+    gap: 20px;
+    align-items: center;
+    background-color: rgb(19, 18, 18);
+    height: 25px;
+    width: 49.4%;
+    box-shadow: 0 0 50px 0 #201f1f;
+}
+
+.icons{
+    background-color: white;
+    border-radius: 0;
+}
+
+.arrowIcon{
+    text-align: center;
+    margin-right: 430px;
+}
+
+.btn.css-1rwt2y5-MuiButtonBase-root-MuiButton-root{
+    color: white;
+    border: 1px solid white
+}
+
+.btn.css-1rwt2y5-MuiButtonBase-root-MuiButton-root:hover{
+   color: #1ed15e;
+   border: 1px solid #1ed15e;
+}
+
+.box{
+    height: 25vh;
+    width:60%;
+    padding: 20px;
+    background-color: black;
+    margin: 10px 10px 10px 20px;
+    border-radius: 10px;
+    
+}
+
+.box:hover{
+  cursor: pointer;
+  background: linear-gradient(to left, rgba(51, 49, 51, 0.7), rgba(0,0,0,0.5));
+}
+
+.box_text{
+    color: white;
+    text-align: center;
+    margin-top: 3px;
+}
+
+.box_image{
+    height: 120px;
+    width: 120px;
+    margin-bottom: 0px;
+    border-radius: 5px;
+    box-shadow: 0 0 15px 0 grey;
+}
+
+.title{
+    margin-top: 0px;
+    margin-left: 20px;
+}

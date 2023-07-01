@@ -1,0 +1,122 @@
+.rightSideBar_size{
+    margin-top: 25px;
+    margin-left: 5px;
+    height: 85.5vh;
+    width: 50%;
+    background-color:#191919;
+    border-radius: 10px;
+    overflow-y: scroll;
+    color: white;
+}
+
+.rightbox1{
+    height: 65vh;
+    width: 88%;
+    background-color:black ;
+    margin: 10px 0px 0px 15px;
+    border-radius: 5px;
+}
+
+.rightImage{
+    margin-top: 15px;
+    height: 45vh;
+    width:93%;
+    margin-left: 12px;
+    border-radius: 5px;
+}
+
+.rightText{
+    color: white;
+    margin-left: 15px;
+    margin-top: 5px;
+}
+
+.song_info{
+    display: flex;
+    color: white;
+    align-items: center;
+    margin-top: 0px;
+    margin-left: 18px;
+}
+
+.rightheading{
+    color: white;
+}
+
+.rightNames{
+    color: white;
+    margin-top: -15px;   
+}
+
+
+.righticons{
+    margin-left: 50px;
+    
+}
+
+.iconGap{
+   margin-left: 10px;
+}
+
+.rightBox2{
+    margin-top: 0px;
+    margin-left: 20px;
+    height: 35vh;
+    width: 90%;
+    background-color: black;
+    border-radius: 10px;
+}
+
+.rightBox2 h4{
+    padding: 5px;
+    margin-left: 5px;
+}
+
+.currentTrackDetails{
+    padding: 10px;
+    display: flex;
+}
+
+.Trackimage{
+    height: 150px;
+    width: 150px;
+    border-radius: 5px;
+}
+
+.currentTrackDetails_text{
+    margin-left: 10px;
+}
+
+.rightBox3{
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    height: 25vh;
+    width: 90%;
+    background-color: black;
+    border-radius: 10px;
+}
+
+.rightBox3Text{
+    align-items: center;
+    display: flex;
+    margin-left: 10px;
+    gap: 140px;
+}
+
+.queueSong_info{
+    display: flex;
+}
+
+.rightQueueImage{
+    margin-top: 6px;
+    height: 25%;
+    width:25%;
+    margin-left: 15px;
+    border-radius: 5px;
+    margin-right: 15px;
+}
+
+.box3QueueText p{
+  margin-top: -15px;
+}

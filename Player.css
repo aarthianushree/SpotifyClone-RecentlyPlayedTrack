@@ -1,0 +1,26 @@
+.whole_page_style{
+    display: flex;
+    background-color: black;
+}
+::-webkit-scrollbar {
+    width: 4px;
+    
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: black;
+    
+   
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #888; 
+    border-radius: 4px;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: black; 
+  }
