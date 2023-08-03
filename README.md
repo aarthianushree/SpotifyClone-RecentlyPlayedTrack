@@ -16,6 +16,8 @@
 
 ![Screenshot (424)](https://github.com/aarthianushree/SpotifyClone-RecentlyPlayedTrack/assets/91659418/2670ddf9-ea30-4898-b41a-969c4217c5f5)
 
+Project Block Diagram:
+
 ![Screenshot (458)](https://github.com/aarthianushree/SpotifyClone-RecentlyPlayedTrack/assets/91659418/f3032a31-3952-4de9-8dbc-6fa2f45dd7b7)
 
 
